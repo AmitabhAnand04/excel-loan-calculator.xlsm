@@ -1,1 +1,2 @@
 Option Explicit
+MsgBox "hello"
