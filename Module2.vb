@@ -5,7 +5,7 @@ Sub ShowCalculatorForm()
 End Sub
 
 Sub clearData()
-
+    Debug.Print "Clearing contents"
     Range("D4").ClearContents
     Range("D5").ClearContents
     Range("D6").ClearContents
