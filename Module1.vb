@@ -1,7 +1,7 @@
 Option Explicit
 
 Sub FetchRate()
-
+    MsgBox "Hello"
     Dim conn As ADODB.Connection
     Dim rs As ADODB.Recordset
     
